@@ -1,0 +1,13 @@
+# IntelliJ
+.idea
+*.iml
+
+# Gradle
+.gradle
+build
+
+#gradle.properties
+*.icls
+src/test/resources/
+
+publishToken
