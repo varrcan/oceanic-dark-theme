@@ -1,0 +1,260 @@
+<scheme name="VarrcanTheme" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2021-04-07T22:49:33</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2021.1.0.0</property>
+    <property name="modified">2021-04-07T22:49:44</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="ANNOTATIONS_COLOR" value="fffbf7" />
+    <option name="CARET_ROW_COLOR" value="222f35" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1d1f21" />
+    <option name="DIAGRAM_ANNOTATION_EDGE" value="c792ea" />
+    <option name="DIAGRAM_DEFAULT_EDGE" value="c3cee3" />
+    <option name="DIAGRAM_GENERALIZATION_EDGE" value="ffcb6b" />
+    <option name="DIAGRAM_INNER_EDGE" value="82aaff" />
+    <option name="DIAGRAM_NODE_BACKGROUND" value="263238" />
+    <option name="DIAGRAM_NODE_HEADER" value="546e7a" />
+    <option name="DIAGRAM_NOTE_BACKGROUND" value="263238" />
+    <option name="DIAGRAM_NOTE_BORDER" value="c3cee3" />
+    <option name="DIAGRAM_REALIZATION_EDGE" value="f07178" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
+    <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
+    <option name="DOCUMENTATION_COLOR" value="263238" />
+    <option name="DOC_COMMENT_GUIDE" value="475f63" />
+    <option name="DOC_COMMENT_LINK" value="89ddf7" />
+    <option name="FILESTATUS_COPIED" value="c3e88d" />
+    <option name="FILESTATUS_DELETED" value="808080" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
+    <option name="FILESTATUS_MERGED" value="c792ea" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="c792ea" />
+    <option name="FILESTATUS_addedOutside" value="c3e88d" />
+    <option name="FILESTATUS_modifiedOutside" value="c792ea" />
+    <option name="GUTTER_BACKGROUND" value="263238" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="" />
+    <option name="INDENT_GUIDE" value="37474f" />
+    <option name="INFORMATION_HINT" value="263238" />
+    <option name="LINE_NUMBERS_COLOR" value="475f63" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="607d86" />
+    <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
+    <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
+    <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
+    <option name="MT_SUPPRESSED" value="eeffff" />
+    <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
+    <option name="NOT_CHANGED" value="607d8b" />
+    <option name="PROMOTION_PANE" value="1b2529" />
+    <option name="QUESTION_HINT" value="263238" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="1b2529" />
+    <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
+    <option name="SELECTED_INDENT_GUIDE" value="9688" />
+    <option name="SELECTED_TEARLINE_COLOR" value="9688" />
+    <option name="SELECTION_BACKGROUND" value="314549" />
+    <option name="SEPARATOR_BELOW_COLOR" value="3b4950" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
+    <option name="TAB_UNDERLINE" value="9688" />
+    <option name="TOOLTIP" value="32424a" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="546e7a" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="2e3c43" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="f07178" />
+    <option name="VISUAL_INDENT_GUIDE" value="37474f" />
+    <option name="WHITESPACES" value="65737e" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="546e7a" />
+  </colors>
+  <attributes>
+    <option name="CSS.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="b5bd68" />
+      </value>
+    </option>
+    <option name="CSS.PROPERTY_VALUE">
+      <value>
+        <option name="FOREGROUND" value="b5bd68" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="cc6666" />
+      </value>
+    </option>
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="66a6ff" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value />
+    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value>
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="b5bd68" />
+      </value>
+    </option>
+    <option name="HTML_TAG">
+      <value>
+        <option name="FOREGROUND" value="cc6666" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="cc6666" />
+      </value>
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="34434a" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="b294bb" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JSON.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_BAD_CHARACTER">
+      <value>
+        <option name="EFFECT_COLOR" value="e57132" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_CLASS">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="PHP_DOC_COMMENT_ID">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_DOC_TAG">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_FUNCTION_CALL">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_INSTANCE_FIELD">
+      <value>
+        <option name="FOREGROUND" value="cc6666" />
+      </value>
+    </option>
+    <option name="PHP_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="b294bb" />
+      </value>
+    </option>
+    <option name="PHP_MARKUP_ID">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="PHP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="eb7d7d" />
+        <option name="BACKGROUND" value="263238" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_STRING">
+      <value>
+        <option name="FOREGROUND" value="b5bd68" />
+      </value>
+    </option>
+    <option name="PHP_TAG">
+      <value>
+        <option name="FOREGROUND" value="81a2be" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_VAR">
+      <value>
+        <option name="FOREGROUND" value="cc6666" />
+        <option name="BACKGROUND" value="263238" />
+      </value>
+    </option>
+    <option name="PHP_VAR_VAR">
+      <value>
+        <option name="FOREGROUND" value="b294bb" />
+      </value>
+    </option>
+    <option name="SMARTY_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="SQL_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="c3cee3" />
+        <option name="BACKGROUND" value="263238" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="34434a" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+</scheme>
