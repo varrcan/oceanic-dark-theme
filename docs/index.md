@@ -1,3 +1,10 @@
+---
+layout: default
+lang: en-EN
+title: Test
+excerpt: Testing
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/varrcan/oceanic-dark-theme/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
