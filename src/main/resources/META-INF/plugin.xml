@@ -1,10 +1,10 @@
 <idea-plugin>
-    <id>varme.pw.varrcan-material-theme</id>
-    <name>Varrcan material theme</name>
+    <id>varme.pw.oceanic-dark-theme</id>
+    <name>Oceanic Dark Theme</name>
     <vendor email="support@varme.pw" url="https://varme.pw">varme.pw</vendor>
 
   <description><![CDATA[
-    <p>Varrcan material <i>theme</i> and <i>color scheme</i> for IntelliJ®, PHPStorm® and other Jetbrains® IDEs.</p>
+    <p>Material Oceanic Dark <i>Theme</i> and <i>color scheme</i> for IntelliJ®, PHPStorm® and other Jetbrains® IDEs.</p>
     <br/>
     ]]></description>
 
@@ -13,7 +13,7 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="76fa3cce-3d85-455b-a7b7-551f4c8a03d7" path="/META-INF/varrcan_theme.theme.json"/>
+        <themeProvider id="76fa3cce-3d85-455b-a7b7-551f4c8a03d7" path="/META-INF/oceanic_dark.theme.json"/>
     </extensions>
 
     <actions>

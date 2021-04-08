@@ -1,8 +1,8 @@
 {
-  "name": "VarrcanTheme",
+  "name": "Oceanic Dark Theme",
   "dark": true,
   "author": "Sergey Voloshin <contact@varme.pw>",
-  "editorScheme": "/META-INF/varrcan_theme.xml",
+  "editorScheme": "/META-INF/oceanic_dark.xml",
   "ui": {
     "*": {
       "acceleratorSelectionForeground": "#607D8B",

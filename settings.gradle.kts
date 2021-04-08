@@ -1,2 +1,2 @@
-rootProject.name = "varrcan-material-theme"
+rootProject.name = "oceanic-dark-theme"
 
