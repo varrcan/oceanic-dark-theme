@@ -1,5 +1,7 @@
 # Oceanic Dark Theme
 
+Material Oceanic Dark Theme and color scheme for IntelliJ®, PHPStorm® and other Jetbrains® IDEs.
+
 ## Installation
 Plugin must be installed manually
 
