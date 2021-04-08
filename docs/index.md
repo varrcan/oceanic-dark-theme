@@ -1,6 +1,5 @@
 ---
 layout: default
-lang: en-EN
 title: Test
 excerpt: Testing
 ---
