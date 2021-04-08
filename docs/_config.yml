@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+lang: en-EN
+encoding: utf-8
+url: https://varrcan.github.io/oceanic-dark-theme/
+permalink: pretty
+highlighter: rouge
+markdown: kramdown
