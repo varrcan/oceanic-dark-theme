@@ -403,8 +403,8 @@
     },
     "ScrollBar": {
       "background": "#263238",
-      "hoverThumbBorderColor": "#ff0000",
-      "hoverThumbColor": "#ff0000",
+      "hoverThumbBorderColor": "#009688",
+      "hoverThumbColor": "#009688",
       "hoverTrackColor": "#26323830",
       "Mac": {
         "hoverThumbBorderColor": "#009688",

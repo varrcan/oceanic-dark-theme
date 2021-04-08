@@ -14,7 +14,6 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="76fa3cce-3d85-455b-a7b7-551f4c8a03d7" path="/META-INF/varrcan_theme.theme.json"/>
-      <themeProvider id="704a5f8b-9d34-47ae-b313-0b70e1f31f5b" path="/META-INF/ff.theme.json"/>
     </extensions>
 
     <actions>
