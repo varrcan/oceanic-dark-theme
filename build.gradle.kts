@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "varme.pw"
-version = "1.0.3"
+version = "1.0.4"
 
 repositories {
     mavenCentral()
@@ -24,7 +24,8 @@ tasks.getByName<Test>("test") {
 }
 tasks.getByName<org.jetbrains.intellij.tasks.PatchPluginXmlTask>("patchPluginXml") {
     changeNotes("""
-      v1.0.3: fix style<br>
+      v1.0.4: small changes<br>
+      v1.0.3: new style<br>
       v1.0.2: rename plugin<br>
       v1.0.1: fix style<br>
       v1.0.0: init<br>
