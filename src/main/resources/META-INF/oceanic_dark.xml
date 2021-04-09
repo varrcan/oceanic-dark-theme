@@ -73,6 +73,22 @@
     <option name="VISUAL_INDENT_GUIDE" value="37474f" />
     <option name="WHITESPACES" value="65737e" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="546e7a" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="425B67"/>
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="26323830"/>
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="32424A"/>
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="26323830"/>
+    <option name="ScrollBar.Mac.hoverThumbColor" value="32424A"/>
+    <option name="ScrollBar.Mac.hoverTrackColor" value="26323830"/>
+    <option name="ScrollBar.Mac.thumbColor" value="32424A"/>
+    <option name="ScrollBar.Mac.trackColor" value="26323830"/>
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="425B67"/>
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="26323830"/>
+    <option name="ScrollBar.Transparent.thumbColor" value="32424A"/>
+    <option name="ScrollBar.Transparent.trackColor" value="26323830"/>
+    <option name="ScrollBar.hoverThumbColor" value="425B67"/>
+    <option name="ScrollBar.hoverTrackColor" value="26323830"/>
+    <option name="ScrollBar.thumbColor" value="32424A"/>
+    <option name="ScrollBar.trackColor" value="26323830"/>
   </colors>
   <attributes>
     <option name="CSS.NUMBER">
