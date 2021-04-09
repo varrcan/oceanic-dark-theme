@@ -7,7 +7,7 @@
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="ANNOTATIONS_COLOR" value="fffbf7" />
+    <option name="ANNOTATIONS_COLOR" value="bdb9b5" />
     <option name="CARET_ROW_COLOR" value="222f35" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1d1f21" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="c792ea" />
@@ -65,11 +65,11 @@
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TAB_UNDERLINE" value="9688" />
     <option name="TOOLTIP" value="32424a" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="546e7a" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="2e3c43" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="f07178" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="4d6570"/>
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="435761"/>
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="384a52"/>
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="2e3c43"/>
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="242e34"/>
     <option name="VISUAL_INDENT_GUIDE" value="37474f" />
     <option name="WHITESPACES" value="65737e" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="546e7a" />
