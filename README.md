@@ -1,11 +1,16 @@
 # Oceanic Dark Theme
 
-Material Oceanic Dark Theme and color scheme for IntelliJ®, PHPStorm® and other Jetbrains® IDEs.
+Material **Oceanic Dark Theme** and **color scheme** for IntelliJ, PHPStorm and other Jetbrains IDEs.
 
 ## Installation
-Plugin must be installed manually
+1) Open `Preferences -> Plugins -> Marketplace` and search for **`Oceanic Dark Theme`**
+2) Install the plugin
+3) Click restart your IDE
+4) Open `Preferences -> Appearance & Behavior -> Appearance` and select **`Oceanic Dark Theme`** in the theme dropdown.
+5) Click Apply and enjoy the theme.
 
-1) Download the [latest](https://github.com/varrcan/oceanic-dark-theme/releases) version (direct link to current [v1.0.2](https://github.com/varrcan/oceanic-dark-theme/releases/download/v1.0.2/oceanic-dark-theme-1.0.2.jar))
+## Manual installation
+1) Download the [latest](https://github.com/varrcan/oceanic-dark-theme/releases) version (`oceanic-dark-theme-1.0.*.jar` file)
 2) Open the IDE settings and go to Plugins
 3) Select from the menu `Install Plugin from Disk`
 4) Select `.jar` file and click OK

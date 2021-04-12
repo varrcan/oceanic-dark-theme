@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "varme.pw"
-version = "1.0.4"
+version = "1.0.5"
 
 repositories {
     mavenCentral()
@@ -24,10 +24,14 @@ tasks.getByName<Test>("test") {
 }
 tasks.getByName<org.jetbrains.intellij.tasks.PatchPluginXmlTask>("patchPluginXml") {
     changeNotes("""
-      v1.0.4: small changes<br>
-      v1.0.3: new style<br>
-      v1.0.2: rename plugin<br>
-      v1.0.1: fix style<br>
-      v1.0.0: init<br>
+      <h3>v1.0.5</h3>
+      <ul>
+        <li>Changed doc comment color</li>
+        <li>Changed default keyword and string color</li>
+        <li>Changed Golang style</li>
+        <li>Fixed selection foreground</li>
+        <li>Fixed console style</li>
+        <li>Fixed SASS comment style</li>
+      </ul>
       """)
 }

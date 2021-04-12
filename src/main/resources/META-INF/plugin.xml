@@ -4,7 +4,8 @@
     <vendor email="support@varme.pw" url="https://github.com/varrcan/oceanic-dark-theme">Sergey Voloshin</vendor>
 
   <description><![CDATA[
-    <p>Material Oceanic Dark <i>Theme</i> and <i>color scheme</i> for IntelliJ®, PHPStorm® and other Jetbrains® IDEs.</p>
+    <p>Material Oceanic Dark <i>Theme</i> and <i>color scheme</i> for IntelliJ, PHPStorm and other Jetbrains IDEs.</p>
+
     To install:
     <ul>
       <li>Go to Settings (Preferences) | Plugins, find the theme plugin and install it</li>
