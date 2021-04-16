@@ -218,6 +218,11 @@
         <option name="FOREGROUND" value="cc6666" />
       </value>
     </option>
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
@@ -459,6 +464,48 @@
         <option name="FOREGROUND" value="b294bb" />
       </value>
     </option>
+    <option name="PY.ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="8888c6" />
+      </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="b294bb" />
+      </value>
+    </option>
+    <option name="PY.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="eb7d7d" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="e8bf6a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_USAGE">
+      <value>
+        <option name="FOREGROUND" value="e9cf9b" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="b294bb" />
+      </value>
+    </option>
     <option name="SASS_COMMENT">
       <value>
         <option name="FOREGROUND" value="808080" />
@@ -473,6 +520,12 @@
     <option name="SQL_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TEXT">
