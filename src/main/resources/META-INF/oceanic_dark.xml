@@ -223,6 +223,11 @@
         <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
+    <option name="DEFAULT_GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="cc6666" />
+      </value>
+    </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="5b7dbc" />
@@ -234,9 +239,7 @@
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="cc6666" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
@@ -249,6 +252,12 @@
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="5b7dbc" />
+      </value>
+    </option>
+    <option name="DEFAULT_STATIC_FIELD">
+      <value>
+        <option name="FOREGROUND" value="5b7dbc" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -288,9 +297,14 @@
         <option name="FOREGROUND" value="e6b163" />
       </value>
     </option>
+    <option name="GO_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
     <option name="GO_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="5b7dbc" />
+        <option name="FOREGROUND" value="b294bb" />
       </value>
     </option>
     <option name="GO_LOCAL_FUNCTION_CALL">
@@ -299,6 +313,11 @@
       </value>
     </option>
     <option name="GO_PACKAGE" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="GO_PACKAGE_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="cc6666" />
+      </value>
+    </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
         <option name="FOREGROUND" value="b5bd68" />
@@ -379,6 +398,13 @@
       <value>
         <option name="FOREGROUND" value="808080" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_DOC_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="eb7d7d" />
+        <option name="BACKGROUND" value="263238" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_DOC_TAG">
@@ -478,12 +504,6 @@
     <option name="YAML_SCALAR_STRING">
       <value>
         <option name="FOREGROUND" value="c3cee3" />
-      </value>
-    </option>
-    <option name="DEFAULT_STATIC_FIELD">
-      <value>
-        <option name="FOREGROUND" value="5b7dbc" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
