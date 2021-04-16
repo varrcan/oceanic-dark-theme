@@ -345,6 +345,7 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="b294bb" />
@@ -403,7 +404,6 @@
     <option name="PHP_DOC_PARAMETER">
       <value>
         <option name="FOREGROUND" value="eb7d7d" />
-        <option name="BACKGROUND" value="263238" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -487,6 +487,16 @@
         <option name="FOREGROUND" value="e5bc1e" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      </value>
+    </option>
+    <option name="TS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="cc6666" />
+      </value>
+    </option>
+    <option name="TS.INSTANCE_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="eb7d7d" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
