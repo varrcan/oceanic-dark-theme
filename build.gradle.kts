@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "varme.pw"
-version = "1.0.5"
+version = "1.0.6"
 
 repositories {
     mavenCentral()
@@ -24,6 +24,13 @@ tasks.getByName<Test>("test") {
 }
 tasks.getByName<org.jetbrains.intellij.tasks.PatchPluginXmlTask>("patchPluginXml") {
     changeNotes("""
+      <h3>v1.0.6</h3>
+      <ul>
+        <li>Fix Golang color</li>
+        <li>Fix JS/TypeScript color</li>
+        <li>Fixed selection foreground</li>
+        <li>Fix Py color</li>
+      </ul>
       <h3>v1.0.5</h3>
       <ul>
         <li>Changed doc comment color</li>

@@ -8,9 +8,10 @@
 
     To install:
     <ul>
-      <li>Go to Settings (Preferences) | Plugins, find the theme plugin and install it</li>
-      <li>Restart IDE</li>
-      <li>Go to Settings (Preferences) | Appearance & Behavior | Appearance and see the Theme dropdown</li>
+      <li>Open Settings (Preferences) | Plugins and search for <b>Oceanic Dark Theme</b></li>
+      <li>Install the plugin</li>
+      <li>Click restart your IDE</li>
+      <li>Go to Settings (Preferences) | Appearance & Behavior | Appearance and select <b>Oceanic Dark Theme</b> in the theme dropdown.</li>
     </ul>
 
     <p>Is there anything wrong? Please <a href="https://github.com/varrcan/oceanic-dark-theme/issues/new">open an issue</a> here on GitHub.</p>
