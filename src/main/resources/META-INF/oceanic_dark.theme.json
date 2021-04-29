@@ -117,6 +117,8 @@
       "infoForeground": "#607D8B",
       "iconColor": "#B0BEC5"
     },
+    "control": "#263238",
+    "controlText": "#607D8B",
     "Counter": {
       "background": "#009688",
       "foreground": "#FFFFFF"
@@ -147,6 +149,7 @@
       "underlinedTabBackground": "#314549",
       "underlinedTabForeground": "#FFFFFF"
     },
+    "Desktop.background": "#263238",
     "DragAndDrop": {
       "areaBackground": "#2e3c43",
       "areaBorderColor": "#263238",
@@ -634,7 +637,9 @@
       "rowHeight": 24,
       "selectionBackground": "#546E7A70",
       "selectionForeground": "#FFFFFF",
-      "selectionInactiveBackground": "#546E7A70"
+      "selectionInactiveForeground": "#FFFFFF",
+      "selectionInactiveBackground": "#546E7A70",
+      "textBackground": "#2A373E"
     },
     "UIDesigner": {
       "Label.foreground": "#607D8B",
