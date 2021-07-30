@@ -1,29 +1,29 @@
 plugins {
-    id("org.jetbrains.intellij") version "0.7.2"
-    java
+    id 'java'
+    id 'org.jetbrains.intellij' version '1.1.4'
 }
 
 group = "varme.pw"
-version = "1.0.7"
+version = "1.0.8"
+
+sourceCompatibility = 11
 
 repositories {
     mavenCentral()
 }
 
-dependencies {
-    testImplementation("org.junit.jupiter:junit-jupiter-api:5.6.0")
-    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine")
-}
-
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
-    version = "2021.1"
+    version = "2020.3.4"
+    updateSinceUntilBuild = false
 }
-tasks.getByName<Test>("test") {
-    useJUnitPlatform()
-}
-tasks.getByName<org.jetbrains.intellij.tasks.PatchPluginXmlTask>("patchPluginXml") {
-    changeNotes("""
+
+patchPluginXml {
+    changeNotes = """
+      <h3>v1.0.8</h3>
+      <ul>
+        <li>Compatibility with IU-212.*</li>
+      </ul>
       <h3>v1.0.7</h3>
       <ul>
         <li>Changed DragAndDrop area background</li>
@@ -45,5 +45,9 @@ tasks.getByName<org.jetbrains.intellij.tasks.PatchPluginXmlTask>("patchPluginXml
         <li>Fixed console style</li>
         <li>Fixed SASS comment style</li>
       </ul>
-      """)
+      """
+}
+
+publishPlugin {
+    token = System.getenv("oceanicDark_intellijPublishToken")
 }
