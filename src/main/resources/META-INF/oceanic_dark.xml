@@ -91,6 +91,7 @@
     <option name="VISUAL_INDENT_GUIDE" value="37474f" />
     <option name="WHITESPACES" value="65737e" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="546e7a" />
+    <option name="LOOKUP_COLOR" value="32424a" />
   </colors>
   <attributes>
     <option name="CONSOLE_BLACK_OUTPUT">
@@ -469,7 +470,7 @@
         <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL">
+    <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="8888c6" />
       </value>

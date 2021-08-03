@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "varme.pw"
-version = "1.0.8"
+version = "1.0.9"
 
 sourceCompatibility = 11
 
@@ -20,6 +20,10 @@ intellij {
 
 patchPluginXml {
     changeNotes = """
+      <h3>v1.0.9</h3>
+      <ul>
+        <li>Changed Popups and Hints background completion</li>
+      </ul>
       <h3>v1.0.8</h3>
       <ul>
         <li>Compatibility with IU-212.*</li>
