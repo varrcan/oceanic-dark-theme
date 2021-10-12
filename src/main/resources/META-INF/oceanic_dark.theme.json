@@ -528,6 +528,7 @@
             "hoverBackground": "#546E7A70",
             "hoverInactiveBackground": "#314549",
             "lightSelectionForeground": "#FFFFFF",
+            "lightSelectionBackground": "#415967",
             "lightSelectionInactiveForeground": "#607D8B",
             "lightSelectionInactiveBackground": "#32424A",
             "selectionBackground": "#314549",

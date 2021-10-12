@@ -50,6 +50,7 @@
     <option name="INFORMATION_HINT" value="263238" />
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="607d86" />
+    <option name="LOOKUP_COLOR" value="32424a" />
     <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
     <option name="MODIFIED_LINES_COLOR" value="415967" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
@@ -83,6 +84,7 @@
     <option name="ScrollBar.trackColor" value="26323830" />
     <option name="TAB_UNDERLINE" value="9688" />
     <option name="TOOLTIP" value="32424a" />
+    <option name="Table.hoverBackground" value="425B67" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="4d6570" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="435761" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="384a52" />
@@ -91,7 +93,6 @@
     <option name="VISUAL_INDENT_GUIDE" value="37474f" />
     <option name="WHITESPACES" value="65737e" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="546e7a" />
-    <option name="LOOKUP_COLOR" value="32424a" />
   </colors>
   <attributes>
     <option name="CONSOLE_BLACK_OUTPUT">
