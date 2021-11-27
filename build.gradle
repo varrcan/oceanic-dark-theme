@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "varme.pw"
-version = "1.1.0"
+version = "1.1.1"
 
 sourceCompatibility = 11
 
@@ -20,6 +20,10 @@ intellij {
 
 patchPluginXml {
     changeNotes = """
+      <h3>v1.1.1</h3>
+      <ul>
+        <li>Compatibility with IU-213.*</li>
+      </ul>
       <h3>v1.1.0</h3>
       <ul>
         <li>Changed Get from VCS window selection background</li>
