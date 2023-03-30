@@ -1,12 +1,12 @@
 plugins {
     id 'java'
-    id 'org.jetbrains.intellij' version '1.1.4'
+    id 'org.jetbrains.intellij' version '1.13.3'
 }
 
 group = "varme.pw"
-version = "1.1.5"
+version = "1.1.6"
 
-sourceCompatibility = 11
+sourceCompatibility = 17
 
 repositories {
     mavenCentral()
@@ -14,12 +14,16 @@ repositories {
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
-    version = "2020.3.4"
+    version = "2022.2.4"
     updateSinceUntilBuild = false
 }
 
 patchPluginXml {
     changeNotes = """
+      <h3>v1.1.6</h3>
+      <ul>
+        <li>Compatibility with IU-233.* and New UI</li>
+      </ul>
       <h3>v1.1.5</h3>
       <ul>
         <li>Compatibility with IU-223.*</li>
