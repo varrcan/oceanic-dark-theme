@@ -592,7 +592,6 @@
                 "stepNumberForeground": "text"
             }
         },
-        "link": "accent",
         "Link": {
             "activeForeground": "accent",
             "hoverForeground": "accent",
@@ -921,15 +920,11 @@
             "selectionBackground": "selBg",
             "selectionForeground": "selFg"
         },
-        "RunWidget": {
-            "Running": {
-                "background": "accent",
-                "leftHoverBackground": "accent70",
-                "leftPressedBackground": "accent"
-            }
+        "RunWidget" : {
+            "foreground": "fg",
+            "stopBackground": "red"
         },
         "ScreenView.borderColor": "border",
-        "scrollbar": "bg",
         "ScrollBar": {
             "background": "bg",
             "hoverThumbBorderColor": "second",
@@ -1328,9 +1323,7 @@
             "hoverInactiveBackground": "table",
             "modifiedItemForeground": "accent",
             "rowHeight": 24,
-            "selectionBackground": "tree",
             "selectionForeground": "selFg",
-            "selectionInactiveBackground": "tree",
             "selectionInactiveForeground": "selFg",
             "textBackground": "hc"
         },
