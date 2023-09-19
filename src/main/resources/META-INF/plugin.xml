@@ -1,4 +1,4 @@
-<idea-plugin>
+<idea-plugin require-restart="true">
     <id>varme.pw.oceanic-dark-theme</id>
     <name>Oceanic Dark Theme</name>
     <vendor email="support@varme.pw" url="https://github.com/varrcan/oceanic-dark-theme">Sergey Voloshin</vendor>
