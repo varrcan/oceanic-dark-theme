@@ -1,9 +1,9 @@
 # Oceanic Dark Theme
 
-Material **Oceanic Dark Theme** and **color scheme** for IntelliJ, PHPStorm and other Jetbrains IDEs.
-
 [![Version](https://img.shields.io/jetbrains/plugin/v/16506-oceanic-dark-theme.svg)](https://plugins.jetbrains.com/plugin/16506-oceanic-dark-theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/16506-oceanic-dark-theme.svg)](https://plugins.jetbrains.com/plugin/16506-oceanic-dark-theme)
+
+Material **Oceanic Dark Theme** and **color scheme** for IntelliJ, PHPStorm and other Jetbrains IDEs.
 
 ## Installation
 1) Open <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "Oceanic Dark Theme"</kbd>
