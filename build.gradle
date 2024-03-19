@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "varme.pw"
-version = "1.1.7"
+version = "1.1.8"
 
 sourceCompatibility = 17
 
@@ -20,6 +20,10 @@ intellij {
 
 patchPluginXml {
     changeNotes = """
+      <h3>v1.1.8</h3>
+      <ul>
+        <li>Compatibility with IU-241.*</li>
+      </ul>
       <h3>v1.1.7</h3>
       <ul>
         <li>Change stop widget red color</li>
