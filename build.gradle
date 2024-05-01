@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "varme.pw"
-version = "1.1.8"
+version = "1.1.9"
 
 sourceCompatibility = 17
 
@@ -14,12 +14,18 @@ repositories {
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
-    version = "2022.2.4"
+    version = "2022.3.3"
     updateSinceUntilBuild = false
 }
 
+buildSearchableOptions.enabled = false
+
 patchPluginXml {
     changeNotes = """
+      <h3>v1.1.9</h3>
+      <ul>
+        <li>Fix refactor popup table</li>
+      </ul>
       <h3>v1.1.8</h3>
       <ul>
         <li>Compatibility with IU-241.*</li>

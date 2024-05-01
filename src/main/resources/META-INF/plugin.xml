@@ -20,7 +20,7 @@
     <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
          on how to target different products -->
     <depends>com.intellij.modules.platform</depends>
-    <idea-version since-build="203.*" until-build="241.*"/>
+    <idea-version since-build="223"/>
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="826759b5-3737-4109-9da3-c134c6a8e515" path="/META-INF/oceanic_dark.theme.json"/>
